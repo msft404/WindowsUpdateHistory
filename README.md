@@ -1,0 +1,2 @@
+# WindowsUpdateHistory
+用于记录Windows11 22H2开始的部分Dev和Canary频道的更新版本号记录
